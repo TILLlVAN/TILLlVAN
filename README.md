@@ -1,2 +1,5 @@
-<img width="1600" height="1200" alt="WhatsApp Image 2026-06-13 at 7 30 31 PM" src="https://github.com/user-attachments/assets/8eb72873-f42a-4802-bae3-f0d49fe9937b" />
+<img width="180" height="180" alt="Nuevo_proyecto_4_46482BF" src="https://github.com/user-attachments/assets/d661de4f-7a29-445b-af59-3f87ec45f604" />
+
+
+
 
